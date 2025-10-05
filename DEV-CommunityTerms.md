@@ -70,4 +70,6 @@ When in doubt ask the lead developer team and we may provide some guidance on th
 ### [7] - Credit & Gratitude
 You are to credit the people who have helped you or provided the sources you have used to do your work. This applies to both your group and in the main channel. The credits must include the lead developers if you are using any work that's made or worked on by them.
 
-Non-compliance with any of these terms will result in a swift and merciless ban from all Nothing Phone (2a)/(2a) Plus community channels and related groups.
+------
+
+## Egregious or repeated offences of non-compliance with any of these terms will result in a swift and merciless ban from all Nothing Phone (2a)/(2a) Plus community channels and related groups.
