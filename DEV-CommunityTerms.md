@@ -4,7 +4,7 @@
 ------
 
 #### Lead Developers:
-The following people regularly work on [The Nothing Phone (2A) & (2A) Plus Organization](https://github.com/Nothing-2A), from now on will be referred to as "Lead Developers" from here on for the sake of brevity.
+The following people regularly work on [The Nothing Phone (2A) & (2A) Plus Organization](https://github.com/Nothing-2A), and will be referred to as "Lead Developers" from here on for brevity.
 
 @FanDeMaraiste92 \
 @witchersredirect \
