@@ -1,4 +1,4 @@
-# Terms of Accord for Developers (1.1)
+# Terms of Conduct for Developers (1.1)
 ### Nothing Phone (2a) & (2a) Plus
 
 ------
