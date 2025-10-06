@@ -9,7 +9,8 @@ The following people regularly work on [The Nothing Phone (2A) & (2A) Plus Organ
 @FanDeMaraiste92 \
 @witchersredirect \
 @arteryring1 \
-@itsHanibee
+@itsHanibee \
+@R0rt1z2
 
 > All usernames match those on Telegram as of 06/10/25.
 
