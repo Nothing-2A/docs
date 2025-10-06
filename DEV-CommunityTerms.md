@@ -4,7 +4,7 @@
 ------
 
 #### Lead Developers:
-The following people regularly work on [The Nothing Phone (2A) & (2A) Plus Organization](https://github.com/Nothing-2A), and will be referred to as "Lead Developers" from here on for brevity.
+The following people regularly work on [The Nothing Phone (2a) & (2a) Plus Organization](https://github.com/Nothing-2A), and will be referred to as "Lead Developers" from here on for brevity.
 
 @FanDeMaraiste92 \
 @witchersredirect \
@@ -96,7 +96,7 @@ You are to credit the people who have helped you or provided the resources you h
 
 ### [9] — Enforcement & Consequences
 
-Compliance with these terms is mandatory. The Nothing Phone (2a)/(2a+) developer community operates on trust, mutual respect, and shared standards. \
+Compliance with these terms is mandatory. The Nothing Phone (2a)/(2a) Plus developer community operates on trust, mutual respect, and shared standards. \
 Egregious or repeated violations of any section of this document, including but not limited to misconduct, poor maintenance practices, paywalled content, or malicious intent will result in immediate removal from all associated community channels and related groups.  
 
 Depending on the severity of the situation, actions may include:
