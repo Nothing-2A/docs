@@ -43,7 +43,7 @@ You can request to post your source-built ROMs to the public at any time, but re
 - All release builds must have all the basics working. Unless your build is marked as experimental/beta/pre-release/testing, you must work to keep any sort of bugs to a minimum.
 > All known unfixed bugs are documented and tracked @ [2A Issue Tracker](https://github.com/Nothing-2A/releases/issues)
 
-- The use of AI-generated code in device trees is strictly prohibited, especially in any part of the kernel that impacts system stability or security. We understand if you're eager to do something cool but lack the skills to do so, but we cannot trust generated code following the recent malicious releases of kernels with AI-generated code ruining devices in the Redmi Note 10 community.
+- The use of AI-generated code in device trees is strictly prohibited, especially in any part of the kernel that impacts system stability or security. We understand if you're eager to do something cool but lack the skills to do so, but we cannot trust generated code following the recent malicious releases of kernels with AI-generated code ruining devices in the Redmi Note 10 Pro community.
 
 ------
 
