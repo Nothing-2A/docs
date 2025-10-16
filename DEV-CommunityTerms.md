@@ -7,7 +7,7 @@
 The following people regularly work on [The Nothing Phone (2a) & (2a) Plus Organization](https://github.com/Nothing-2A), and will be referred to as "Lead Developers" from here on for brevity.
 
 @FanDeMaraiste92 \
-@witchersredirect \
+@@lordwitcher \
 @arteryring1 \
 @itsHanibee \
 @R0rt1z2
